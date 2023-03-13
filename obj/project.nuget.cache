@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ks7pcoW5nQH2t0Eh3QKMa0kggsnVLgVJuE/j/PzKd6CwVE0VDm/bR1yY8U3IImXLRSE9jxaFA+xv4PaX8gDxBg==",
+  "dgSpecHash": "f6M2IpNeoXEXAx9STdzksrqNcYsiiHjn0c1F6vBS8odIHO6Wd8rcmFhw6o+c1LYmr0KXEC60zk6L/CWdrn/uig==",
   "success": true,
   "projectFilePath": "/Users/C_sharp_learning/Hello-World-demo/Hello-World-demo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/hsieh-cheng-ting/.nuget/packages/microsoft.netcore.app.runtime.win-x64/7.0.3/microsoft.netcore.app.runtime.win-x64.7.0.3.nupkg.sha512",
+    "/Users/hsieh-cheng-ting/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/7.0.3/microsoft.aspnetcore.app.runtime.win-x64.7.0.3.nupkg.sha512",
+    "/Users/hsieh-cheng-ting/.nuget/packages/microsoft.netcore.app.host.win-x64/7.0.3/microsoft.netcore.app.host.win-x64.7.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
