@@ -1,0 +1,15 @@
+/Users/C_sharp_learning/Hello-World-demo/bin/Debug/net7.0/Hello-World-demo
+/Users/C_sharp_learning/Hello-World-demo/bin/Debug/net7.0/Hello-World-demo.deps.json
+/Users/C_sharp_learning/Hello-World-demo/bin/Debug/net7.0/Hello-World-demo.runtimeconfig.json
+/Users/C_sharp_learning/Hello-World-demo/bin/Debug/net7.0/Hello-World-demo.dll
+/Users/C_sharp_learning/Hello-World-demo/bin/Debug/net7.0/Hello-World-demo.pdb
+/Users/C_sharp_learning/Hello-World-demo/obj/Debug/net7.0/Hello-World-demo.csproj.AssemblyReference.cache
+/Users/C_sharp_learning/Hello-World-demo/obj/Debug/net7.0/Hello-World-demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/C_sharp_learning/Hello-World-demo/obj/Debug/net7.0/Hello-World-demo.AssemblyInfoInputs.cache
+/Users/C_sharp_learning/Hello-World-demo/obj/Debug/net7.0/Hello-World-demo.AssemblyInfo.cs
+/Users/C_sharp_learning/Hello-World-demo/obj/Debug/net7.0/Hello-World-demo.csproj.CoreCompileInputs.cache
+/Users/C_sharp_learning/Hello-World-demo/obj/Debug/net7.0/Hello-World-demo.dll
+/Users/C_sharp_learning/Hello-World-demo/obj/Debug/net7.0/refint/Hello-World-demo.dll
+/Users/C_sharp_learning/Hello-World-demo/obj/Debug/net7.0/Hello-World-demo.pdb
+/Users/C_sharp_learning/Hello-World-demo/obj/Debug/net7.0/Hello-World-demo.genruntimeconfig.cache
+/Users/C_sharp_learning/Hello-World-demo/obj/Debug/net7.0/ref/Hello-World-demo.dll
